@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Bevis' saying</title>
+  <subtitle>Straight man</subtitle>
+  <link href="https://bevis.me/feed.xml" rel="self"/>
+  <link href="https://bevis.me/"/>
+  <id>uri:uuid:2b307247-c579-488d-8cc4-0d4b72662e20</id>
+  <updated>2018-05-14T11:17:39+08:00</updated>
+  <author>
+    <name>Bevis Zhao</name>
+  </author>
+  <rights>© Bevis Zhao 2018</rights>
+  <entry>
+    <title>Example Article</title>
+    <link href="https://bevis.me/example-article" rel="alternate"/>
+    <id>urn:uuid:f44db28d-199b-44d1-8376-10ef1a52bd40</id>
+    <published>2012-01-01T08:00:00+08:00</published>
+    <updated>2018-05-14T11:17:39+08:00</updated>
+    <author>
+      <name>Bevis Zhao</name>
+    </author>
+    <content type="html">&lt;p&gt;This is an example article. You probably want to delete it and write your own articles!&lt;/p&gt;
+</content>
+  </entry>
+</feed>
